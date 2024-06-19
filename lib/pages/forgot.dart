@@ -53,7 +53,7 @@ class _ForgotPasswordPageState extends State<ForgotPasswordPage> {
                       ? CircularProgressIndicator()
                       : Text('Reset Password'),
                        style: ElevatedButton.styleFrom(
-                       primary: primary, 
+                       //primary: primary, 
   ),
                 ),
               ],

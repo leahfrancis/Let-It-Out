@@ -100,7 +100,7 @@ class Yoga extends StatelessWidget {
                               ),
                               Text(
                                 "Session 01",
-                                style: Theme.of(context).textTheme.subtitle1,
+                                //style: Theme.of(context).textTheme.subtitle1,
                               ),
                             ],
                           ),
@@ -150,7 +150,7 @@ class Yoga extends StatelessWidget {
                               ),
                               Text(
                                 "Session 02",
-                                style: Theme.of(context).textTheme.subtitle1,
+                                //style: Theme.of(context).textTheme.subtitle1,
                               ),
                             ],
                           ),
@@ -200,7 +200,7 @@ class Yoga extends StatelessWidget {
                               ),
                               Text(
                                 "Session 03",
-                                style: Theme.of(context).textTheme.subtitle1,
+                               // style: Theme.of(context).textTheme.subtitle1,
                               ),
                             ],
                           ),
@@ -250,7 +250,7 @@ class Yoga extends StatelessWidget {
                               ),
                               Text(
                                 "Session 04",
-                                style: Theme.of(context).textTheme.subtitle1,
+                               // style: Theme.of(context).textTheme.subtitle1,
                               ),
                             ],
                           ),
@@ -300,7 +300,7 @@ class Yoga extends StatelessWidget {
                               ),
                               Text(
                                 "Session 05",
-                                style: Theme.of(context).textTheme.subtitle1,
+                                //style: Theme.of(context).textTheme.subtitle1,
                               ),
                             ],
                           ),

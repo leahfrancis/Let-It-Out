@@ -200,7 +200,7 @@ class _CommentPageState extends State<CommentPage> {
                   },
                   child: Text('Add'),
                   style: ElevatedButton.styleFrom(
-                    primary: Color(0xFF111634),
+                   // primary: Color(0xFF111634),
                   ),
                 ),
               ],

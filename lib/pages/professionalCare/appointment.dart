@@ -106,10 +106,10 @@ class _AppointmentState extends State<Appointment> {
                   "Back Home",
                   style: TextStyle(color: Colors.white),
                 ),
-                style: ElevatedButton.styleFrom(
-                  primary: Colors.black,
+                //style: ElevatedButton.styleFrom(
+                 // primary: Colors.black,
                 ),
-              ),
+            //  ),
             ],
           ),
         ),
